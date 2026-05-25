@@ -4,10 +4,10 @@ const locations = [
     title: "我房間書桌右手邊靠牆半透明盒子",
     image: "assets/medicine-locations/1.png",
     description:
-      "基本常備藥位置。通常會有 paracetamol、ibuprofen、脹氣藥等。",
+      "基本常備藥位置。通常會有 PARACETAMOL、IBUPROFEN、脹氣藥等。",
     items: [
-      ["止痛退燒", "paracetamol / acetaminophen，也包含 paracemotal 拼字搜尋"],
-      ["止痛消炎", "ibuprofen"],
+      ["止痛退燒", "PARACETAMOL / ACETAMINOPHEN，也包含 PARACEMOTAL 拼字搜尋"],
+      ["止痛消炎", "IBUPROFEN"],
       ["脹氣", "一般脹氣藥"],
     ],
     keywords: [
@@ -32,10 +32,10 @@ const locations = [
     title: "我房間書桌右手邊小半透明收納盒",
     image: "assets/medicine-locations/2.png",
     description:
-      "半透明盒子前方的小收納盒。主要是腸胃藥組，有 Windeze、Buscon / Buscopan，以及意外消脹氣有效的 Moclam。",
+      "半透明盒子前方的小收納盒。主要是腸胃藥組，有 WINDEZE、BUSCON / BUSCOPAN，以及意外消脹氣有效的 MOCLAM。",
     items: [
-      ["腸胃", "Windeze、Buscon / Buscopan"],
-      ["脹氣", "Moclam 意外有效"],
+      ["腸胃", "WINDEZE、BUSCON / BUSCOPAN"],
+      ["脹氣", "MOCLAM 意外有效"],
     ],
     keywords: [
       "windeze",
@@ -60,10 +60,10 @@ const locations = [
     title: "我房間書桌桌上黑盒",
     image: "assets/medicine-locations/3.png",
     description:
-      "常用藥居家盒。包括基本 sertraline 和 propranolol。",
+      "常用藥居家盒。包括基本 SERTRALINE 和 PROPRANOLOL。",
     items: [
-      ["常用藥", "sertraline"],
-      ["心律錠", "propranolol"],
+      ["常用藥", "SERTRALINE"],
+      ["心律錠", "PROPRANOLOL"],
     ],
     keywords: [
       "sertraline",
@@ -86,10 +86,10 @@ const locations = [
     title: "我房間包包內白盒",
     image: "assets/medicine-locations/4.png",
     description:
-      "常用藥外出盒。包括基本 sertraline 和 propranolol。",
+      "常用藥外出盒。包括基本 SERTRALINE 和 PROPRANOLOL。",
     items: [
-      ["常用藥", "sertraline"],
-      ["心律錠", "propranolol"],
+      ["常用藥", "SERTRALINE"],
+      ["心律錠", "PROPRANOLOL"],
     ],
     keywords: [
       "sertraline",
@@ -145,11 +145,11 @@ const locations = [
     title: "我房間白色櫃子抽屜第二層",
     image: "assets/medicine-locations/7.png",
     description:
-      "Moclam、sumatriptan 偏頭痛藥放在靠左邊的 Brita 濾水器紙盒裡。同時裡面也有 sertraline 和 propranolol。",
+      "MOCLAM、SUMATRIPTAN 偏頭痛藥放在靠左邊的 BRITA 濾水器紙盒裡。同時裡面也有 SERTRALINE 和 PROPRANOLOL。",
     items: [
-      ["偏頭痛", "sumatriptan，靠左邊的 Brita 濾水器紙盒裡"],
-      ["放鬆 / 脹氣", "Moclam"],
-      ["常用藥", "sertraline、propranolol"],
+      ["偏頭痛", "SUMATRIPTAN，靠左邊的 BRITA 濾水器紙盒裡"],
+      ["放鬆 / 脹氣", "MOCLAM"],
+      ["常用藥", "SERTRALINE、PROPRANOLOL"],
     ],
     keywords: [
       "sumatriptan",
